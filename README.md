@@ -4,8 +4,6 @@
 
 ## Projects
 
-It was necessary to fantasize that it was necessary to develop an insurance product that has no analogues (mobile and desktop versions). Meeting with investors in a week. To get funding and sell them an idea, you need to prepare a presentation.
-
 | No. |  Project name  | Description                                                                        | Status |
 | --- | ---------------| ------------------------------------------- | ------ |
 | 1   | QA_project00   | Registration/Authorization form testing | ✅     |
