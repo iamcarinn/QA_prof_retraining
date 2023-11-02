@@ -4,7 +4,7 @@
 
 ## Projects
 
-| No. |  Project name  | Description                                                                        | Status |
+| No. |  Project name  | Description                                 | Status |
 | --- | ---------------| ------------------------------------------- | ------ |
 | 1   | QA_project00   | Registration/Authorization form testing | ✅     |
 | 2   | QA_project01   | SDLC and STLC. Test Artifacts | ✅     |
